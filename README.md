@@ -1,6 +1,7 @@
 # PiggyMetrics
 
-原项目https://github.com/sqshq/PiggyMetrics 
+基于原项目https://github.com/sqshq/PiggyMetrics 
+
+升级为1.5.+
 
 
-PiggyMetrics升级为1.5.+
