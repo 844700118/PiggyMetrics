@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="accountservice" />
+        <module name="authservice" />
+        <module name="config" />
+        <module name="gateway" />
+        <module name="monitoring" />
+        <module name="notificationservice" />
+        <module name="registry" />
+        <module name="statisticsservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="accountservice" target="1.8" />
+      <module name="authservice" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="monitoring" target="1.8" />
+      <module name="notificationservice" target="1.8" />
+      <module name="PiggyMetrics" target="1.5" />
+      <module name="registry" target="1.8" />
+      <module name="statisticsservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

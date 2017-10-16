@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.chenym</groupId>
+    <artifactId>PiggyMetrics</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>config</module>
+        <module>gateway</module>
+        <module>monitoring</module>
+        <module>registry</module>
+        <module>authservice</module>
+        <module>accountservice</module>
+        <module>statisticsservice</module>
+        <module>notificationservice</module>
+    </modules>
+    <packaging>pom</packaging>
+    <name>piggymetrics</name>
+    <!--
+     <build>
+     	<pluginManagement>
+          <plugins>
+            <plugin>
+              <groupId>com.spotify</groupId>
+              <artifactId>docker-maven-plugin</artifactId>
+              <version>0.4.12</version>
+            </plugin>
+          </plugins>
+        </pluginManagement>
+    </build>
+	-->
+</project>

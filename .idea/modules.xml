@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PiggyMetrics.iml" filepath="$PROJECT_DIR$/PiggyMetrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accountservice/accountservice.iml" filepath="$PROJECT_DIR$/accountservice/accountservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authservice/authservice.iml" filepath="$PROJECT_DIR$/authservice/authservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://F:\github\PiggyMetrics\mongodb\mongodb.iml" filepath="F:\github\PiggyMetrics\mongodb\mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitoring/monitoring.iml" filepath="$PROJECT_DIR$/monitoring/monitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationservice/notificationservice.iml" filepath="$PROJECT_DIR$/notificationservice/notificationservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statisticsservice/statisticsservice.iml" filepath="$PROJECT_DIR$/statisticsservice/statisticsservice.iml" />
+    </modules>
+  </component>
+</project>
